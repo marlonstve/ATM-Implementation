@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_transform_map">
+    <sys_transform_map action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copy_empty_fields>false</copy_empty_fields>
+        <create_new_record_on_empty_coalesce_fields>false</create_new_record_on_empty_coalesce_fields>
+        <enforce_mandatory_fields>No</enforce_mandatory_fields>
+        <name>ServiceNow ATM Implementation</name>
+        <order>100</order>
+        <run_business_rules>true</run_business_rules>
+        <run_script>false</run_script>
+        <script><![CDATA[(function transformRow(source, target, map, log, isUpdate) {
+
+	// Add your code here
+
+})(source, target, map, log, action==="update");]]></script>
+        <source_table>x_933927_atm_imple_service_now_data</source_table>
+        <sys_class_name>sys_transform_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-12 04:29:14</sys_created_on>
+        <sys_id>89d6991a879c6110a90b7f59dabb354d</sys_id>
+        <sys_name>ServiceNow ATM Implementation</sys_name>
+        <sys_package display_value=" ATM Implementation" source="x_933927_atm_imple">ba535156879c6110a90b7f59dabb35e2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value=" ATM Implementation">ba535156879c6110a90b7f59dabb35e2</sys_scope>
+        <sys_update_name>sys_transform_map_89d6991a879c6110a90b7f59dabb354d</sys_update_name>
+        <target_table>sys_user</target_table>
+    </sys_transform_map>
+</record_update>

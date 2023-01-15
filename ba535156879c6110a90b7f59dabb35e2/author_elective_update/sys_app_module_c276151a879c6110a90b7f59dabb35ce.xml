@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="System Import Sets">import_sets</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Service Now data</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_933927_atm_imple_service_now_data</name>
+        <order>1100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-12 04:25:11</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c276151a879c6110a90b7f59dabb35ce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Now data</sys_name>
+        <sys_overrides/>
+        <sys_package display_value=" ATM Implementation" source="x_933927_atm_imple">ba535156879c6110a90b7f59dabb35e2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value=" ATM Implementation">ba535156879c6110a90b7f59dabb35e2</sys_scope>
+        <sys_update_name>sys_app_module_c276151a879c6110a90b7f59dabb35ce</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-12 04:25:11</sys_updated_on>
+        <timeline_page/>
+        <title>Service Now data</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value=" ATM Implementation">ba535156879c6110a90b7f59dabb35e2</application>
+        <file_path/>
+        <instance_id>97ac469ddb798d901b813feb68961922</instance_id>
+        <instance_name>dev125754</instance_name>
+        <name>sys_app_module_c276151a879c6110a90b7f59dabb35ce</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="System Import Sets">import_sets</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Service Now data</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_933927_atm_imple_service_now_data</name><order>1100</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-01-12 04:25:11</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>c276151a879c6110a90b7f59dabb35ce</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Now data</sys_name><sys_overrides/><sys_package display_value=" ATM Implementation" source="x_933927_atm_imple">ba535156879c6110a90b7f59dabb35e2</sys_package><sys_policy/><sys_scope display_value=" ATM Implementation">ba535156879c6110a90b7f59dabb35e2</sys_scope><sys_update_name>sys_app_module_c276151a879c6110a90b7f59dabb35ce</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-01-12 04:25:11</sys_updated_on><timeline_page/><title>Service Now data</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>271872149</payload_hash>
+        <record_name>Service Now data</record_name>
+        <reverted_from/>
+        <source>36535156879c6110a90b7f59dabb35e4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-12 04:25:11</sys_created_on>
+        <sys_id>ca76151a879c6110a90b7f59dabb35cf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>185a439881e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-12 04:25:11</sys_updated_on>
+        <type>Module</type>
+        <update_guid>0676151a149c6110c800d53e8243fbcf</update_guid>
+        <update_guid_history>0676151a149c6110c800d53e8243fbcf:271872149</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Now data">a4d618a787502110a90b7f59dabb35f7</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-15 20:59:30</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>3a8bab7c9f9c47848dd4aeb2ab833c84</sys_id>
+        <sys_metadata>c276151a879c6110a90b7f59dabb35ce</sys_metadata>
+        <sys_name>Service Now data</sys_name>
+        <sys_package display_value=" ATM Implementation" source="x_933927_atm_imple">ba535156879c6110a90b7f59dabb35e2</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value=" ATM Implementation">ba535156879c6110a90b7f59dabb35e2</sys_scope>
+        <sys_scope_delete display_value="">1fa53c2b628b4e7091d6d61bd8860900</sys_scope_delete>
+        <sys_update_name>sys_app_module_c276151a879c6110a90b7f59dabb35ce</sys_update_name>
+        <sys_update_version display_value="sys_app_module_c276151a879c6110a90b7f59dabb35ce">ca76151a879c6110a90b7f59dabb35cf</sys_update_version>
+    </sys_metadata_delete>
+</record_update>
